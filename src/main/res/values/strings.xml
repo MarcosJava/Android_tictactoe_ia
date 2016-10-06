@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TicTacToe-IA</string>
+    <string name="action_settings">Jogadas</string>
+    <string name="action_reset">Reset</string>
+    <string name="titulo">TicTacToe IA</string>
+    <string name="escolher_jogador">Escolha uma opcao:</string>
+    <string name="cpuVsCpu">CPU vs CPU</string>
+    <string name="playVsCpu">Play vs CPU</string>
+    <string name="dificultade">Dificuldade</string>
+    <string name="marque">Marque</string>
+    <string name="jogueDeNovo">Jogar Novamente</string>
+    <string name="jogueDeNovo_vitoria">Jogar Novamente  =D</string>
+    <string name="jogueDeNovo_derrota">Jogar Novamente  =(</string>
+    <string name="jogueDeNovo_velha">Jogar Novamente   =I</string>
+    <string name="x">X</string>
+    <string name="bola">O</string>
+
+    <string-array name="country_arrays">
+        <item>Dificil</item>
+        <item>Medio</item>
+        <item>Facil</item>
+    </string-array>
+    <string name="title_activity_player_cpu">PlayerCPUActivity</string>
+    <string name="resultado">Resultado: </string>
+    <string name="jogadorO">Jogador O:</string>
+    <string name="jogadorX">Jogador X:</string>
+</resources>

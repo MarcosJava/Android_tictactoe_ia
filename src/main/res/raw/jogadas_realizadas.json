@@ -1,0 +1,73 @@
+{
+  "vitoria": [
+    {
+      "1": [
+        {"jogada2":"2", "jogada3":"3"},
+        {"jogada2":"3", "jogada3":"2"},
+        {"jogada2":"4", "jogada3":"7"},
+        {"jogada2":"5", "jogada3":"9"},
+        {"jogada2":"7", "jogada3":"4"},
+        {"jogada2":"9", "jogada3":"5"}
+      ],
+      "2":[
+        {"jogada2":"1", "jogada3":"3"},
+        {"jogada2":"3", "jogada3":"1"},
+        {"jogada2":"5", "jogada3":"8"},
+        {"jogada2":"8", "jogada3":"5"}
+      ],
+      "3":[
+        {"jogada2":"1", "jogada3":"2"},
+        {"jogada2":"2", "jogada3":"1"},
+        {"jogada2":"5", "jogada3":"7"},
+        {"jogada2":"6", "jogada3":"9"},
+        {"jogada2":"7", "jogada3":"5"},
+        {"jogada2":"9", "jogada3":"6"}
+      ],
+      "4":[
+        {"jogada2":"1", "jogada3":"7"},
+        {"jogada2":"5", "jogada3":"6"},
+        {"jogada2":"6", "jogada3":"5"},
+        {"jogada2":"7", "jogada3":"1"}
+      ],
+      "5":[
+        {"jogada2":"1", "jogada3":"9"},
+        {"jogada2":"2", "jogada3":"8"},
+        {"jogada2":"3", "jogada3":"7"},
+        {"jogada2":"4", "jogada3":"6"},
+        {"jogada2":"6", "jogada3":"4"},
+        {"jogada2":"7", "jogada3":"3"},
+        {"jogada2":"8", "jogada3":"2"},
+        {"jogada2":"9", "jogada3":"1"}
+      ],
+      "6":[
+        {"jogada2":"3", "jogada3":"9"},
+        {"jogada2":"4", "jogada3":"5"},
+        {"jogada2":"5", "jogada3":"4"},
+        {"jogada2":"9", "jogada3":"3"}
+      ],
+      "7":[
+        {"jogada2":"1", "jogada3":"4"},
+        {"jogada2":"3", "jogada3":"5"},
+        {"jogada2":"5", "jogada3":"3"},
+        {"jogada2":"4", "jogada3":"1"},
+        {"jogada2":"8", "jogada3":"9"},
+        {"jogada2":"9", "jogada3":"8"}
+      ],
+      "8":[
+        {"jogada2":"2", "jogada3":"5"},
+        {"jogada2":"5", "jogada3":"2"},
+        {"jogada2":"7", "jogada3":"9"},
+        {"jogada2":"9", "jogada3":"7"}
+      ],
+      "9":[
+        {"jogada2":"1", "jogada3":"5"},
+        {"jogada2":"3", "jogada3":"6"},
+        {"jogada2":"5", "jogada3":"1"},
+        {"jogada2":"6", "jogada3":"3"},
+        {"jogada2":"7", "jogada3":"8"},
+        {"jogada2":"8", "jogada3":"7"}
+      ]
+
+    }
+  ]
+}
